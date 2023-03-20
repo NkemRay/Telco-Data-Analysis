@@ -1,4 +1,4 @@
-# Telcommunication  customer Churn and Retention Analysis
+# Telecommunication  customer Churn and Retention Analysis
 
 ## Introduction / Data sourcing
 In this data analysis project, we will explore a telecommunications dataset from Kaggle to understand customer churn. 
