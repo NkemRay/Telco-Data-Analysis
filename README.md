@@ -1,13 +1,20 @@
 # Telecommunication  customers Churn and Retention Analysis
 
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/OIP.jfif" width="1107" height="500">
+
 ## Introduction / Data sourcing
+
 In this data analysis project, we will explore a telecommunications dataset from Kaggle to understand customer churn. 
 Our goal is to determine the number of customers who have left, identify possible reasons for their departure, and make recommendations to reduce churn.
+
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/Data%20in%20Excel.png" width="1107" height="500">
 
 ## Problem statement
  Analyze customer churn data and predict which customers are likely to leave. 
 
 ## Data pre-process(python: Pandas, Numpy)
+
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/python%20data%20preprocess.png" width="1107" height="500">
 
 1;	Steps taken to clean and prepare the data for analysis
 
@@ -22,6 +29,8 @@ Our goal is to determine the number of customers who have left, identify possibl
 + Because it still a practice process on python, i made some mistakes that took me time to figure out and correct.
 
 ## Exploratory Analysis( python: Matplotlib, seaborn)
+
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/correlation.png" width="1107" height="500">
 
 ### Methods use to explore the data, including visualizations and statistical analysis
 
@@ -46,11 +55,13 @@ These prediction will help to determine the variable that can affects customers 
 
 ## Visualization (Excel)
 
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/dashboard.png" width="1107" height="500">
+
 Made use of Excel to create visuals.
 
 ## Conclusion
 
-These are some of the insight gotten from the data
+Here are some of the insights gotten from the data
 
 ### Insight
 + 	The ratio of the churned to non churned customers is imbalance with the value as 27%:73% respectively
