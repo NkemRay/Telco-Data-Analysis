@@ -50,6 +50,8 @@ Made use of Excel to create visuals.
 
 ## Conclusion
 
+### Insight
++ 
 ## Recommedation
 
 
