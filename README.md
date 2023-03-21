@@ -50,12 +50,12 @@ Our goal is to determine the number of customers who have left, identify possibl
 
 •	Correlation of all variables and Churn
 
-•	Converted all the categorical variables into dummy variables for the purpose further analysis like predictions. 
+•	Converted all the categorical variables into dummy variables for the purpose of further analysis like predictive Analysis. 
 These prediction will help to determine the variable that can affects customers churning in the future  and recommend possible strategies to curb the problem
 
 ## Visualization (Excel)
 
-<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/dashboard.png" width="1107" height="500">
+<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/dashboard.png" width="1107" height="800">
 
 Made use of Excel to create visuals.
 
