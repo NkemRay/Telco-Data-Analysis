@@ -1,11 +1,11 @@
-# Telecommunication  customer Churn and Retention Analysis
+# Telecommunication  customers Churn and Retention Analysis
 
 ## Introduction / Data sourcing
 In this data analysis project, we will explore a telecommunications dataset from Kaggle to understand customer churn. 
 Our goal is to determine the number of customers who have left, identify possible reasons for their departure, and make recommendations to reduce churn.
 
 ## Problem statement
- Analyze customer churn data and predict which customers are likely to leave. Use the Telco Customer Churn dataset from Kaggle
+ Analyze customer churn data and predict which customers are likely to leave. 
 
 ## Data pre-process(python: Pandas, Numpy)
 
@@ -50,8 +50,27 @@ Made use of Excel to create visuals.
 
 ## Conclusion
 
-### Insight
-+ 
-## Recommedation
+These are some of the insight gotten from the data
 
+### Insight
++ 	The ratio of the churned to non churned customers is imbalance with the value as 27%:73% respectively
++  High churners as seen in case of month to month contract, tenure group from 1-12 months, no technical support and no online security.
++	 Low Churners as seen in case of long term contracts, Subscriptions without internet service.
++	 Factors like Gender, phone service and multiple lines have almost no impact on churning rate.
+
+## Recommendation
+
++ Improve customer service: One of the primary reasons customers leave a service is due to poor customer service or technical support as discovered from the data. Improving Technical support can involve providing better support and being more responsive to customer needs.
+
++ Offer incentives: Providing incentives, such as discounts, rewards, or free services, can encourage customers to stay with the service especially for the customers that are on month to month contract. These incentives could also be targeted to be offered as a general promotion.
+
++ Personalize the customer experience: Personalizing the customer experience can help build loyalty and prevent churn. This can involve tailoring services to customer needs and preferences. These services couyld be providing subscription plans that ara affordable by Targeted customers
+
++ Monitor customer satisfaction: Monitoring customer satisfaction levels can help identify potential churn before it happens. Regular surveys and feedback requests can help identify areas where the service can be improved and help identify customers who may be considering leaving.
+
++ Implement retention strategies: Retention strategies are designed to keep customers from leaving. These can include targeted promotions, upselling and cross-selling, and other strategies aimed at retaining customers.
+
++ Improve network performance: Poor network performance is a common reason why customers leave a service. Improving network performance can involve investing in better infrastructure, providing better coverage, and improving network speeds.
+
+# Thank you for Reading through! 
 
