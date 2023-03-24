@@ -75,7 +75,7 @@ Here are some of the insights gotten from the data
 
 + Offer incentives: Providing incentives, such as discounts, rewards, or free services, can encourage customers to stay with the service especially for the customers that are on month to month contract. These incentives could also be targeted to be offered as a general promotion.
 
-+ Personalize the customer experience: Personalizing the customer experience can help build loyalty and prevent churn. This can involve tailoring services to customer needs and preferences. These services couyld be providing subscription plans that ara affordable by Targeted customers
++ Personalize the customer experience: Personalizing the customer experience can help build loyalty and prevent churn. This can involve tailoring services to customer needs and preferences. These services could be providing subscription plans that are affordable by Targeted customers
 
 + Monitor customer satisfaction: Monitoring customer satisfaction levels can help identify potential churn before it happens. Regular surveys and feedback requests can help identify areas where the service can be improved and help identify customers who may be considering leaving.
 
