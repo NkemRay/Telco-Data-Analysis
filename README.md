@@ -55,9 +55,10 @@ These prediction will help to determine the variable that can affects customers 
 
 ## Visualization (Excel)
 
-<img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/dashboard.png" width="1107" height="800">
+<img src="" width="1107" height="800">
 
-Made use of Excel to create visuals.
+
+Made use of Power BI to create the visuals.
 
 ## Conclusion
 
