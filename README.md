@@ -10,7 +10,7 @@ Our goal is to determine the number of customers who have left, identify possibl
 <img src="https://github.com/NkemRay/Telco-Data-Analysis/blob/main/telco%20images/Data%20in%20Excel.png" width="1107" height="500">
 
 ## Problem statement
- Analyze customer churn data and predict which customers are likely to leave. 
+ Analyze customer churn by variables such as dependents, partners, phone service and so many other variables to determine the rate of churn. 
 
 ## Data pre-process(python: Pandas, Numpy)
 
